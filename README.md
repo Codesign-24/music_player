@@ -6,4 +6,4 @@ In this video ([Open in Youtube](https://www.youtube.com/watch?v=MOWEGEpHfMg)), 
 # Screenshot
 Here is the project screenshot :
 
-![screenshot](screenshot.png)
+<img src="screenshot.png" alt="screenshot" width="400"/>
